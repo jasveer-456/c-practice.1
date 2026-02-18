@@ -1,4 +1,4 @@
-#  Task 3: Number Type Checker
+#   Number Type Checker
 
 ###  Problem:
 
