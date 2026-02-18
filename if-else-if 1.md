@@ -1,4 +1,4 @@
-# Task 2: Largest of Three Numbers
+#  Largest of Three Numbers
 
 ###  Problem:
 
