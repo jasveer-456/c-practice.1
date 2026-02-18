@@ -1,8 +1,8 @@
-**`if-else if` practice tasks in C (without user input)** 
+**`if-else if` practice tasks in C 
 
 ---
 
-# Task 1: Grade Calculator
+#  Grade Calculator
 
 ###  Problem:
 
