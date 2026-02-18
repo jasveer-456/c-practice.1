@@ -18,15 +18,15 @@ int main(){
 	int c = 15;
 	if (a>=b && a>=c)
 	{
-	printf("a is greater then b and c");
+	printf("a is greater than b and c");
     }
     else if (b>=a && b>=c)
     {
-    	printf("b is greater then a and c");
+    	printf("b is greater than a and c");
 	}
 	else
 	{
-		printf("c is greater then a and b");
+		printf("c is greater than a and b");
 	}
 }
 ```
