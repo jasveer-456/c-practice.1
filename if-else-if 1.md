@@ -32,4 +32,4 @@ int main(){
 ```
 ## output
 ```
-b is greater then a and c
+b is greater than a and c
