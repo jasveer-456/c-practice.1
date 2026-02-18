@@ -1,4 +1,4 @@
-#  Task 4: Weekday Checker
+#  Weekday Checker
 
 ###  Problem:
 
@@ -30,6 +30,15 @@ int main(){
 	else if (day ==3)
 	{
 		printf("Wednesday");
+	}
+     else if(day ==4)
+	
+	{
+		printf("Thursday");
+	}
+	else if(day ==5)
+	{
+		printf("friday");
 	}
 	else
 	{
