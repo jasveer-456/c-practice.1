@@ -26,11 +26,11 @@ int main(){
 	{
 		printf("Grade A");
 	}
-	else if (marks>75 || marks<89)
+	else if (marks>=75 || marks=<89)
 	{
 		printf("Grade B");
 	}
-	else if(marks>50 || marks<74)
+	else if(marks>=50 || marks=<74)
 	{
 		printf("Grade C");
 	}
